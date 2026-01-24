@@ -2,7 +2,7 @@
 Hello folks!
 In this project, we deploy a web application using Jenkins CI/CD, AWS EC2, Docker, and ArgoCD in a simple and practical way. here are some screenshot 
 steps to do it
- 1. Launch an EC2 instance (Amazon Linux or Ubuntu).
+ 1. Launch an EC2 instance ( Ubuntu).
    Open required ports in the security group:
   8080 → Jenkins
   80 / 443 → Web Application
